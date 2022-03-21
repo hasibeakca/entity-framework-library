@@ -1,0 +1,17 @@
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\bin\Debug\net5.0\Kutuphane.DAL.deps.json
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\bin\Debug\net5.0\Kutuphane.DAL.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\bin\Debug\net5.0\ref\Kutuphane.DAL.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\bin\Debug\net5.0\Kutuphane.DAL.pdb
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\bin\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\bin\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\obj\Debug\net5.0\Kutuphane.DAL.csproj.AssemblyReference.cache
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\obj\Debug\net5.0\Kutuphane.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\obj\Debug\net5.0\Kutuphane.DAL.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\obj\Debug\net5.0\Kutuphane.DAL.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\obj\Debug\net5.0\Kutuphane.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\obj\Debug\net5.0\Kutuphane.DAL.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\obj\Debug\net5.0\ref\Kutuphane.DAL.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\obj\Debug\net5.0\Kutuphane.DAL.pdb
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\bin\Debug\net5.0\Kutuphane.DAL.runtimeconfig.json
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\bin\Debug\net5.0\Kutuphane.DAL.runtimeconfig.dev.json
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.DAL\obj\Debug\net5.0\Kutuphane.DAL.genruntimeconfig.cache

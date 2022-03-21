@@ -1,0 +1,17 @@
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\bin\Debug\net5.0\Kutuphane.Business.deps.json
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\bin\Debug\net5.0\Kutuphane.Business.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\bin\Debug\net5.0\ref\Kutuphane.Business.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\bin\Debug\net5.0\Kutuphane.Business.pdb
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\bin\Debug\net5.0\AppCore.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\bin\Debug\net5.0\Kutuphane.DAL.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\bin\Debug\net5.0\Kutuphane.DAL.pdb
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\bin\Debug\net5.0\AppCore.pdb
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\obj\Debug\net5.0\Kutuphane.Business.csproj.AssemblyReference.cache
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\obj\Debug\net5.0\Kutuphane.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\obj\Debug\net5.0\Kutuphane.Business.AssemblyInfoInputs.cache
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\obj\Debug\net5.0\Kutuphane.Business.AssemblyInfo.cs
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\obj\Debug\net5.0\Kutuphane.Business.csproj.CoreCompileInputs.cache
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\obj\Debug\net5.0\Kutuphane.Business.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\obj\Debug\net5.0\ref\Kutuphane.Business.dll
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\obj\Debug\net5.0\Kutuphane.Business.pdb
+C:\Users\HASİBE\Source\Repos\LibraryProje1\Kutuphane.Business\obj\Debug\net5.0\Kutuphane.Business.csproj.CopyComplete
